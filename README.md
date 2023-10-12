@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erswapnilwaghmare
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on coding
+- 🌱 I’m currently learning Data Science program
+- 💞️ I’m looking to collaborate on coding 
 - 📫 How to reach me erswapnilwaghmare@gmail.com
 
 <!---
